@@ -1,16 +1,14 @@
 
-Merhaba ben Emin AKMAN 
+Merhabalar ben Emin AKMAN 
 
--> Teknoloji ile ilgileniyorum ve oyun tasarımı yapmaktan büyük bir zevk alıyorum.
--> Şu sıralar oyun geliştirme hakkında çalışıyorum. Marmara Üniversitesi Mekatronik Mühendisliği okumaktayım.
+-> Kodlama alanında projeler geliştiriyorum.
 -> Bana ulaşmak için eminakman876@gmail.com adresine mail atabilirsiniz.
 
 >--------------------------------------------------------------------------------------------------------------------------------------<
 
 Hi this is Emin AKMAN 
 
--> I am intrested in tech and game developing.
--> Currently i am workin on game developing and i am intrested in tech.
+-> I am intrested in coding.
 -> You can contact me at eminakman876@gmail.com 
 
 
