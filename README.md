@@ -1,14 +1,13 @@
+#Merhabalar ben Emin AKMAN 
 
-Merhabalar ben Emin AKMAN 
-
--> Kodlama alanında projeler geliştiriyorum.
+-> Gömülü sistemler alanında kendimi geliştirmek için projeler geliştiriyorum.
 -> Bana ulaşmak için eminakman876@gmail.com adresine mail atabilirsiniz.
 
 >--------------------------------------------------------------------------------------------------------------------------------------<
 
 Hi this is Emin AKMAN 
 
--> I am intrested in coding.
+-> I am developing projects to improve myself in the field of embedded systems.
 -> You can contact me at eminakman876@gmail.com 
 
 
