@@ -1,11 +1,11 @@
-#Merhabalar ben Emin AKMAN 
+Merhabalar ben Emin Akman 
 
 -> Gömülü sistemler alanında kendimi geliştirmek için projeler geliştiriyorum.
 -> Bana ulaşmak için eminakman876@gmail.com adresine mail atabilirsiniz.
 
 >--------------------------------------------------------------------------------------------------------------------------------------<
 
-Hi this is Emin AKMAN 
+Hi this is Emin Akman
 
 -> I am developing projects to improve myself in the field of embedded systems.
 -> You can contact me at eminakman876@gmail.com 
