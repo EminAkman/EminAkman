@@ -1,34 +1,27 @@
-Merhabalar ben Emin Akman 
+# Hi there, I'm Emin Akman 👋
+### Embedded Systems & Mechatronics Engineer
 
--> Gömülü sistemler alanında kendimi geliştirmek için projeler geliştiriyorum.
--> Bana ulaşmak için eminakman876@gmail.com adresine mail atabilirsiniz.
+I am a Mechatronics Engineer focused on end-to-end embedded product development — from schematic capture and multi-layer PCB design to real-time firmware development in C/C++ and mechanical prototyping.
 
->--------------------------------------------------------------------------------------------------------------------------------------<
+- 🔭 **Current Focus:** Real-time firmware architecture, STM32 (ARM Cortex-M), and motor control systems.
+- ⚡ **Hardware:** Custom PCB design in KiCad/Altium, power electronics, and multi-sensor/actuator integration.
+- 🛠️ **Environment:** Linux (Arch), CMake, Git, FreeRTOS concepts.
+- 🌐 **Portfolio & Contact:** [eminakman.com](https://eminakman.com) | [LinkedIn](https://www.linkedin.com/in/eminakman)
 
-Hi this is Emin Akman
+---
 
--> I am developing projects to improve myself in the field of embedded systems.
--> You can contact me at eminakman876@gmail.com 
+### 🧰 Tech Stack & Tools
 
+- **Languages & Firmware:** C, C++, Embedded C, STL, Python, Shell
+- **MCUs & Platforms:** STM32 (ARM Cortex-M), ESP32, Arduino
+- **Protocols & Buses:** UART, SPI, I2C, PWM, Modbus (RTU)
+- **EDA & CAD:** KiCad, Altium, Fusion 360, SolidWorks, Autodesk Inventor
+- **OS & Environment:** Linux (Arch), RTOS / FreeRTOS
 
+---
 
+### 📌 Featured Projects
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!---
-EminAkman/EminAkman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Automated Card Shuffler & IR Dealer:** STM32-based motorized dealer featuring custom PCB power stages, interrupt-driven multi-axis motor routines, and spatial tracking via IR photodetector arrays.
+- **18-DOF Hexapod Robot:** Multi-gait walking robot with custom KiCad power distribution PCB, inverse kinematics modeling, and synchronized multi-servo control.
+- **Freelance ESP32 Embedded Controller:** Custom carrier board integrating power stages, modular headers, multi-encoder pulse acquisition, and precision PWM outputs.
